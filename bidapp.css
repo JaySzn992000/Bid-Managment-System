@@ -1,0 +1,57 @@
+.center_form{
+    margin-bottom: -2.5em;
+}
+
+.flex_tender{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+
+.flex_tender{
+    background-color: lightseagreen;
+    padding: 17px;
+}
+
+
+.flex_tender li {
+color: white;
+}
+
+
+.flex_input{
+    text-align: start;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.flex_input button{
+    margin-top: 3.5em;
+}
+
+
+button{
+    background-color: slategray;
+    color: white;
+    border-radius: 7px;
+    padding: 14px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.flex_input input{
+    height: 27px;
+}
+
+input{
+    padding-left: 11px;
+    padding-right: 20px;
+    border-radius: 9px;
+}

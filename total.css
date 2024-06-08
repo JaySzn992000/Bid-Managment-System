@@ -1,0 +1,42 @@
+.total_tender {
+    top: 4%;
+    left: 3.5%;
+    text-align: start;
+    padding: 15px;
+    width: 240px;
+    height: 100px;
+    line-height: 1.4em;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(170, 161, 161, 0.741); 
+    transition: box-shadow 0.3s ease; 
+}
+
+
+.total_tender h1{
+    margin-top: 1.4em;
+    font-size: 3rem;
+    margin-left: -1.5em;
+}
+
+.total_tender p{
+    font-weight: bold;
+    margin-top: .3em;
+}
+
+.flex_container_total div{
+    gap: 2em;
+    display: flex;
+}
+
+.flex_container_total{
+    display: flex;
+    justify-content: space-between;
+    top: 5%;
+    gap: 1.5em;
+    position: absolute;
+}
+
+.center_form{
+    margin-left: 5em;
+}

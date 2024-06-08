@@ -1,0 +1,45 @@
+.quotation_{
+    width: 45%;
+    height: 597px;
+    padding: 27px;
+    text-align: start;
+    line-height: 1em;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    transform: translate(-50%,10%);
+}
+
+
+.quotation_ button{
+    margin-top: 5em;
+    height: 43px;
+    border: none;
+    color: white;
+    width: 35%;
+    background-color: darkslategrey;
+}
+
+
+
+.side_nfm{
+    position: absolute;
+    right: 6%;
+    top: 6%;
+    text-align: end;
+}
+
+
+
+.quotation_ input{
+    width: 150px;
+    padding: 9px;
+    border-radius: 7px;
+    border: 1px solid gainsboro;
+}
+
+.quotation_ h1{
+    margin-bottom: 1.7em;
+}
